@@ -1,3 +1,0 @@
-### Pascals Trainagle using Python
-
-
